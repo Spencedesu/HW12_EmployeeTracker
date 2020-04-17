@@ -1,5 +1,8 @@
 # EmployeeTracker
 
+https://drive.google.com/file/d/1iedS0LS5T7-f8HzaG1EiVuFG_jG3xmJc/view
+^ that link shows the app in action.
+
 A node CLI app, for managing a directory of employees, by role & department
 
 To create the schema, run:
