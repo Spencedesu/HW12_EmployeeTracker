@@ -44,6 +44,7 @@ connection.connect(function(err) {
 
         case "Sign off":
           Information.exit();
+          break;
       }
     })
   }
